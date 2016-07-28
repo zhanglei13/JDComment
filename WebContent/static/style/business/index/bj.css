@@ -1,0 +1,264 @@
+/*@charset "gb2312";*/
+* { margin: 0; padding: 0 }
+body { font: normal 12px/22px Arial, Verdana, Lucida, Helvetica, simsun, sans-serif }
+table { border-collapse: collapse; border-spacing: 0; empty-cells: show; text-align: left; font-size: 12px }
+th, td { border-collapse: collapse }
+ol, ul { list-style: none }
+form { margin: 0 }
+a { text-decoration: none; color: #333; Color: #5a5a5a }
+a:hover { text-decoration: underline; color: #ee7000 }
+a img { border: 0 }
+input, select, form images, button { vertical-align: middle }
+images { border: 0 }
+button { cursor: pointer }
+.fl { float: left }
+.fr { float: right }
+.wap994 { width: 994px; margin: 0 auto }
+.layout { width: 110%; float: left }
+.clear { clear: both; height: 0; margin: 0; padding: 0; width: 0; border: 0; overflow: hidden; font-size: 0; line-height: 0 }
+.tanchuang { position: fixed; left: 400px; top: 200px; width: 100%; _position: absolute; _top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop, 10)||0)-(parseInt(this.currentStyle.marginBottom, 10)||0)));
+_bottom: 0; color: White; z-index: 5555 }
+.hrxu { border-top: 1px dashed #999 }
+form { margin: 0 }
+A.pt:link, A.pt:active, A.pt:visited { TEXT-DECORATION: none; Color: #5a5a5a; font-family: Arial, Helvetica }
+A.pt:hover { TEXT-DECORATION: underline; Color: #ee7000 }
+A.f12lan:link, A.f12lan:active, A.f12lan:visited { TEXT-DECORATION: none; Color: #0b9aca }
+A.f12lan:hover { TEXT-DECORATION: none; Color: #0b9aca }
+A.f14:link, A.f14:active, A.f14:visited { font-size: 14px; TEXT-DECORATION: none; Color: #666 }
+A.f14:hover { font-size: 14px; TEXT-DECORATION: none; Color: #df4100 }
+A.f14b:link, A.f14b:active, A.f14b:visited { font-size: 14px; TEXT-DECORATION: none; Color: #df4100; font-weight: bold }
+A.f14b:hover { font-size: 14px; TEXT-DECORATION: underline; Color: #df4100; font-weight: bold }
+A.menu:link, A.menu:active, A.menu:visited { font-size: 16px; TEXT-DECORATION: none; Color: #fff; font-weight: bold }
+A.menu:hover { font-size: 16px; TEXT-DECORATION: underline; Color: #fff; font-weight: bold }
+h1 { font-size: 24px }
+A.warning:visited { TEXT-DECORATION: none; Color: #3b5998 }
+A.warning:hover { TEXT-DECORATION: underline; Color: #3b5998; font-weight: bold }
+.team_main_side { width: 100% }
+.titlehead { border: solid 1px #ddd; text-align: left; width: 242px }
+.titlehead210 { border: solid 1px #ddd; text-align: left; width: 210px }
+.inputbutton, .inputsubmit, .subbutton, .canbutton button { height: 24px; font-size: 12px; padding: 3px 15px; border: 1px solid; border-color: #d8dfea #0e1f5b #0e1f5b #d8dfea; background: #0066a7; color: #fff; line-height: 16px; cursor: pointer; text-align: center }
+.price17 { font-size: 17px; text-decoration: none; color: #ed0000; font-family: Verdana }
+.spanjj { padding: 0 10px; font-size: 9px; color: #ccc }
+A.f12hui:link, A.f12hui:active, A.f12hui:visited { font-size: 12px; color: #999 }
+td, div { Color: #5a5a5a }
+A.bbsuser:link, A.bbsuser:active, A.bbsuser:visited { font-family: Verdana; font-weight: bold }
+A.bbsuser:hover { font-family: Verdana; font-weight: bold }
+.breadcrumbs small { font-size: 12px; font-family: serif; margin: auto 6px; line-height: 20px }
+.pro-index-box { border: 1px solid #ddd; border-top: 0 }
+.pro-index-head { border-bottom: 1px solid #ebebeb; height: 32px; padding: 8px 16px 0 16px; border-top: 3px solid #f4f4f4 }
+.pro-index-headL { float: left }
+.pro-index-headL span { color: #f22 }
+.pro-index-headL ul { display: inline-block; margin-right: 6px; border: 1px solid #aaa; border-right: 0; vertical-align: middle; *float:left
+}
+.pro-index-headL li { position: relative; float: left; width: 46px; height: 20px; line-height: 20px; background: #fff; text-align: center; border-right: 1px solid #aaa; overflow: visible }
+.pro-index-headL li.current { background: #aaa }
+.pro-index-headL li.current a { color: #fff }
+.pro-index-headR { float: right }
+.pro-index-headR em { color: #fff; display: inline-block; text-align: center; width: 70px; height: 22px; line-height: 22px; font-style: normal; margin-left: 14px; background: #ff9000; *vertical-align:1px
+}
+.pro-index-headR em a { color: #fff }
+.pro-index-headR em a:hover { color: #fff!important }
+.area-item { display: inline-block; border: 1px solid #dedede; background: #fff; height: 21px; line-height: 21px; padding: 0 15px 0 8px; margin-left: -1px; _margin-left: 0; cursor: pointer; position: relative; margin: auto 4px; margin-right: 10px }
+.area-arrow { background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat -15px -212px; width: 7px; height: 5px; overflow: hidden; display: inline-block; position: absolute; right: 4px; top: 7px }
+.pro-index-boxP { border-bottom: 1px solid #dedede; height: 80px; overflow: hidden; width: 100%; position: relative }
+.pro-index-boxP a.next, .pro-index-boxP a.prev { position: absolute; display: block; width: 20px; height: 80px; background: #fff; background: url(http://include.manmanbuy.com/css/procss/nav.png) no-repeat; cursor: pointer; z-index: 2 }
+.pro-index-boxP a.next { right: 0; background-position: 0 30px }
+.pro-index-boxP a.prev { left: 0; background-position: -16px 30px }
+.pro-index-boxP a.next:hover { background-position: 0 -36px }
+.pro-index-boxP a.prev:hover { background-position: -16px -36px }
+.pro-index-boxP a.nextStop, .pro-index-boxP a.prevStop { background: 0 }
+.pro-index-boxP ul li { float: left; width: 124px; cursor: pointer; padding: 0; display: inline }
+.pro-index-boxP ul li a { width: 100%; height: 67px; padding-top: 21px; display: inline-block; transition: none; text-decoration: none!important }
+.pro-index-boxP ul li a:hover { background: #fcfcfc }
+.pro-index-boxP .price { height: 22px; line-height: 22px; color: #000; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: center; font-family: Verdana; font-size: 14px; color: #ed0000; font-weight: bold }
+.pro-index-boxP .price em { font-size: 12px; font-style: normal }
+.pro-index-boxP .mall { text-align: center; vertical-align: bottom; color: #333; height: 18px; line-height: 18px; margin: 0 auto; overflow: hidden; white-space: nowrap; font-size: 12px; margin-top: 4px }
+.pro-index-conH { height: 24px; line-height: 24px; background: #fbfbfb; border-bottom: 1px solid #ebebeb }
+.pro-index-conH span { color: #9a9a9a; display: inline-block; text-align: center }
+.pro-index-conH span.th-sc { width: 122px }
+.pro-index-conH span.th-zy { width: 82px }
+.pro-index-conH span.th-xx { margin-right: 15px; width: 370px }
+.pro-index-conH span.th-jg { margin-left: 10px; width: 75px; text-align: left }
+.pro-index-conH span.th-yh { margin-left: 25px; width: 70px }
+.pro-index-conH span.th-xl { margin-left: 40px; width: 110px }
+.pro-index-conH span.th-huo { margin-left: 24px; width: 75px }
+.pro-index-conH span.th-btn { margin-left: 15px; width: 100px }
+.pro-index-conC { *background:#fff;
+*height:1%
+}
+.pro-index-mall { padding: 16px 0 16px 0; border-bottom: 1px solid #e5e5e5 }
+.pro-index-mall p { line-height: 24px }
+.pro-index-malllname { float: left; width: 87px; padding: 0 22px; vertical-align: middle; font-size: 14px }
+.pro-index-malllname img { vertical-align: middle; margin-right: 4px }
+.pro-index-iszy { float: left; overflow: hidden; width: 70px; padding-right: 30px }
+.pro-index-iszy b { font-size: 12px; line-height: 24px }
+.pro-index-tit { font-size: 12px; width: 385px; padding-right: 70px; overflow: hidden; float: left; word-break: break-all }
+.pro-index-tit a { color: #333 }
+.pro-index-tit a:hover { color: #ff5600 }
+.pro-index-tit span { font-size: 12px; color: #ff5600; margin-left: 4px }
+.pro-index-dsf, .pro-index-zy { display: inline-block; font-weight: normal; line-height: 16px; padding: 0 2px; color: #5a5a5a; font-size: 14px }
+.pro-index-price { float: left; width: 100px; padding-right: 30px; overflow: hidden }
+.pro-index-price b { font-size: 12px; font-family: Verdana; color: #ed0000 }
+.pro-index-price span { font-family: Verdana; font-size: 14px }
+.pro-index-price p.pro-index-pricexl { color: #585858 }
+.pro-index-price p { color: #5a5a5a }
+.pro-index-price a { display: none }
+.pro-index-trend { background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -301px; display: inline-block; width: 17px; height: 14px; overflow: hidden; margin-left: 3px }
+.pro-index-yh { float: left; width: 55px; padding-right: 43px; position: relative; height: 30px }
+.pro-index-yh span.pro-index-f { color: #ff5600; display: inline-block; width: 26px; line-height: 12px; padding: 2px 5px 2px 22px; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -230px; font-family: "宋体"; margin-top: 2px; cursor: pointer }
+.pro-index-yh span.pro-index-q { color: #ff5600; display: inline-block; width: 26px; line-height: 14px; padding: 4px 5px 4px 22px; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -247px; font-family:"宋体" margin-top:2px;
+cursor: pointer }
+.pro-index-yhH { position: relative; width: 220px; border: 1px solid #ffa63c; background: #fff7ee; top: 26px; left: 0; padding: 10px 10px 10px 50px; display: none; position: absolute; z-index: 1 }
+.pro-index-yhH i.pro-index-yhHa { width: 11px; height: 6px; overflow: hidden; position: absolute; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -316px; top: -6px; left: 20px; display: inline-block }
+.pro-index-yhH i.pro-index-yhHif { width: 20px; height: 16px; overflow: hidden; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -284px; display: inline-block; position: absolute; left: 20px; top: 14px }
+.pro-index-yhH i.pro-index-yhHiq { width: 20px; height: 16px; overflow: hidden; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat -21px -284px; display: inline-block; position: absolute; left: 20px; top: 14px }
+.pro-index-yhH span { color: #d00 }
+.pro-index-yf { display: none }
+.pro-index-yhH a { color: #096296; font-family: "宋体" }
+.pro-index-xl { float: left; width: 80px; padding-right: 28px }
+.pro-index-huo { float: left; width: 70px; padding-right: 20px }
+.pro-index-huono { color: #a3a3a3 }
+.pro-index-btn { float: left }
+.pro-index-btn p.pro-index-gobuy a { display: inline-block; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -323px; width: 70px; height: 26px; line-height: 26px; text-align: center }
+.pro-index-btn p.pro-index-gobuy a:hover { text-decoration: none }
+.pro-index-btn p.pro-index-gomall { text-align: center; display: none; line-height: 20px; margin-top: 2px }
+.pro-index-more { margin: 8px auto 0 auto }
+.pro-index-more a { float: left; display: block; color: #555; height: 22px; line-height: 22px; padding-right: 8px; write-space: norwrap; border: 1px solid #e5e5e5; background-color: #fff; overflow: hidden; cursor: pointer; margin-bottom: 6px }
+.pro-index-more a:hover { color: #ff5600; text-decoration: none }
+.pro-index-more a:hover em { color: #ff5600 }
+.pro-index-more span { display: inline-block; line-height: 21px; display: inline-block; vertical-align: middle; margin-left: 0; *height:30px
+}
+.pro-index-more b { font-weight: normal }
+.pro-index-more em { float: left; width: 20px; height: 21px; vertical-align: middle; margin-right: 10px; border-right: 1px solid #e5e5e5; text-align: center; font-size: 20px; color: #e5e5e5 }
+.pro-index-hide { width: 860px; float: right; border-top: 1px solid #e5e5e5; padding: 16px 0; display: none }
+.pro-index-state { text-align: center; color: #aaa; height: 54px; line-height: 54px }
+.pro-index-tbconc { border: 1px solid #ddd; border-top: 0 }
+.pro-index-tbh { color: #585858; padding-left: 20px; font-size: 14px; line-height: 34px; background: #f9f9f9 }
+.pro-index-tbc { *height:1%
+}
+.pro-index-tbitem { border-top: 1px solid #e5e5e5; padding: 20px 0 }
+.pro-index-tbname { float: left; width: 87px; padding: 0 22px; vertical-align: middle }
+.pro-index-tbname img { vertical-align: middle; margin-right: 4px }
+.pro-index-tbtit { width: 440px; margin-right: 76px; float: left; line-height: 22px }
+.pro-index-tbtit a { font-size: 14px; color: #5a5a5a }
+.pro-index-tbtit a:hover { color: #ff5600 }
+.pro-index-tbprice { float: left; width: 110px; margin-right: 15px; font-family: "宋体" }
+.pro-index-tbprice span { color: #f21600; font-size: 14px; font-weight: bold; font-family: "Microsoft YaHei" }
+.pro-index-tbpl { float: left; width: 110px; margin-right: 20px }
+.pro-index-tbbtn { float: left }
+.pro-index-tbbtn a { display: inline-block; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 -323px; width: 70px; height: 26px; line-height: 26px; text-align: center }
+.pro-index-tbbtn a:hover { text-decoration: none }
+.pro-comment-box { margin-top: 12px }
+.pro-comment-nav { background: #f8f8f8; border: 1px solid #dcdcdc; height: 30px; line-height: 30px }
+.pro-comment-nav ul { display: inline }
+.pro-comment-nav ul li { float: left; position: relative; width: 137px; height: 30px; overflow: visible; border-right: 1px solid #dbdbdb }
+.pro-comment-nav ul li a { color: #5a5a5a; font-weight: bold; width: 133px; display: inline-block; position: absolute; text-align: center; left: 0; top: 0 }
+.pro-comment-nav ul li.current a { width: 137px; height: 30px; background: #fff; border: 1px solid #dcdcdc; border-top: 2px solid #ee7101; border-bottom: 1px solid #fff; top: -1px; left: -1px; color: #ee7101 }
+.pro-comment-sort { float: right; margin: 3px 18px auto auto; _margin-right: 10px }
+.pro-comment-sort a { background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 0; width: 49px; height: 23px; line-height: 23px; display: inline-block; padding-left: 11px }
+.pro-comment-sort a.topnew { background-position: 0 -350px }
+.pro-comment-sort a.topnew_current { background-position: 0 -374px; color: #fff }
+.pro-comment-sort a.topUseful { background-position: 0 -422px }
+.pro-comment-sort a.topUseful_current { background-position: 0 -298px; color: #fff }
+.pro-comment-con { border: 1px solid #dcdcdc; border-top: 0; padding: 12px 15px; *height:1%
+}
+.pro-comment-con ul li { border-bottom: 1px solid #e9e9e9; padding: 0 0 18px 0; margin-top: 20px }
+.pro-comment-author { text-align: center; float: left; width: 80px }
+.pro-comment-author img { width: 41px; height: 41px }
+.pro-comment-name { font-weight: bold; color: #6da531 }
+.pro-comment-text { float: left }
+.pro-comment-text .pl { width: 880px; background: url(http://www.zuyushop.com/newindexpic/proimages/plBg.gif) right top repeat-y; line-height: 24px; font-size: 12px; color: #888 }
+.pro-comment-text .plT { width: 880px; background: url(http://www.zuyushop.com/newindexpic/proimages/plT.gif) right top no-repeat; padding-top: 11px }
+.pro-comment-text .plB { width: 840px; background: url(http://www.zuyushop.com/newindexpic/proimages/plB.gif) right bottom no-repeat; padding-bottom: 10px; padding-left: 30px; padding-right: 10px }
+.pro-comment-info { padding-left: 20px; margin-top: 8px }
+.pro-comment-infoL { float: left }
+.pro-comment-infoL b { color: #ff9000 }
+.pro-comment-infoL img { vertical-align: middle }
+.pro-comment-infoR { float: right; _margin-right: 10px }
+.pro-comment-infoR a { text-decoration: none; display: inline-block; width: 50px; text-align: right }
+.pro-comment-infoR a:hover i { opacity: 1; filter: alpha(opacity=100) }
+.pro-comment-infoR .good i { background-position: 0 -446px }
+.pro-comment-infoR .bad i { background-position: -18px -446px }
+.pro-comment-infoR i { display: inline-block; width: 17px; height: 17px; background: url(http://www.zuyushop.com/newindexpic/proimages/icon.png) no-repeat 0 0; vertical-align: middle; opacity: .8; filter: alpha(opacity=80); margin-right: 4px }
+.pro-comment-sub { position: relative }
+.pro-comment-sub i.pro-comment-suba { position: absolute; right: 64px; _right: 98px; top: 0 }
+.pro-comment-subcon { background: #fbfbfb; border: 1px solid #dfdfdf; padding: 0 14px; border-radius: 5px; margin-top: 6px; width: 840px; float: right }
+.pro-comment-subcon ul li { padding: 10px 0; line-height: 24px; border-bottom: 1px dotted #e9e9e9 }
+.pro-comment-subcon span { color: #b5b5b5; text-align: right; float: right; _margin-top: -22px }
+.pro-pagenav-box { margin: 0 auto; text-align: center; padding: 20px 15px 0 15px; *padding-left:220px;
+_padding-left: 0 }
+.pro-pagenav-box ul { display: inline-block; background: url(http://www.zuyushop.com/newindexpic/proimages/navbox_bg.gif) repeat-x bottom; border: 1px solid #e8e8ea; height: 24px; *float:left;
+margin-left: 190px; _margin-left: 190px }
+.pro-pagenav-box ul li { display: inline-block; border-bottom: 0; font-size: 14px; font-family: "Microsoft YaHei"; font-weight: bold; padding: 0 8px; height: 24px; border-right: 1px solid #e8e8ea; padding-bottom: 0; line-height: 24px; color: #de0000; *float:left;
+margin: 0 }
+.pro-pagenav-box li.active { background: #f44800; color: #fff }
+.pro-pagenav-box li.next-page { border-right: 0 }
+.pro-pagenav-box a { color: #de0000 }
+.pro-pagenav-box a:hover { color: #f44800; text-decoration: none }
+.prev-page a, .next-page a { color: #bfbfbf; text-decoration: none; font-family: serif }
+.pro-pagenav-all { float: right }
+.pro-pagenav-all a { color: #327ab2; font-family: serif }
+.pro-suggest-box { margin-top: 12px; overflow: hidden; border: 1px solid #ddd; background: #f9f7f8; border-right: 0; *height:1%
+}
+.pro-suggest-box ul li { float: left; width: 330px; text-align: center; height: 36px; overflow: hidden; border-right: 1px solid #ddd }
+.pro-suggest-box ul li a { color: #585858; display: block; height: 36px; line-height: 36px; font-family: "宋体" }
+.pro-howkind-box { margin-top: 12px; border: 1px solid #ddd; *height:1%
+}
+.pro-how-box { float: left; border-right: 1px solid #ddd; width: 240px }
+.pro-how-tit { font-size: 14px; color: #585858; padding-left: 20px; background: #f8f8f8; font-weight: bold; height: 34px; line-height: 34px }
+.pro-how-con { padding: 10px 16px }
+.pro-how-con ul li { line-height: 24px; height: 24px }
+.pro-how-con em.dot { display: inline-block; background: #8b8b8b; width: 2px; height: 2px; overflow: hidden; margin-right: 4px; vertical-align: middle }
+.pro-how-con ul li a { color: #8b8b8b }
+.pro-how-con ul li a:hover { color: #ee7000 }
+.pro-kind-box { float: left; width: 751px }
+.pro-kind-tit { font-size: 14px; color: #585858; padding-left: 20px; background: #f8f8f8; font-weight: bold; height: 34px; line-height: 34px }
+.pro-kind-con { padding: 10px }
+.pro-kind-con ul li { float: left; padding: 0; width: 145px; overflow: hidden }
+.pro-kind-img { text-align: center }
+.pro-kind-img img { width: 110px; height: 110px }
+.pro-kind-pk { text-align: center; margin-top: 6px }
+.pro-kind-pk a { color: #005aa0 }
+.pro-kind-pk a:hover { color: #ed0000 }
+.pro-kind-name { text-align: center }
+.pro-kind-pl { text-align: center; margin-top: 6px }
+.pro-kind-pl a { color: #005aa0 }
+.pro-kind-pl a:hover { color: #ed0000 }
+.pro-kind-price { text-align: center }
+.pro-kind-price span { color: #f44800; font-weight: bold; font-size: 14px }
+.pro-kind-db { text-align: center; margin-top: 6px }
+.pro-kind-db a { background-color: #f39801; width: 50px; height: 20px; line-height: 20px; text-align: center; display: inline-block; color: #fff!important; opacity: .80; filter: alpha(opacity=80) }
+.pro-kind-db a:hover { opacity: 1; filter: alpha(opacity=100) }
+.pro-ranking-box { margin-top: 12px; border: 1px solid #ddd }
+.pro-ranking-tit { font-size: 14px; color: #585858; padding-left: 20px; background: #f8f8f8; font-weight: bold; height: 34px; line-height: 34px }
+.pro-ranking-con { padding: 15px 0; *height:1%
+}
+.pro-ranking-box ul li { float: left; width: 165px }
+.pro-ranking-img { text-align: center }
+.pro-ranking-img img { width: 120px; height: 120px }
+.pro-ranking-name { text-align: center; padding: 0 14px; height: 42px; overflow: hidden; margin-top: 6px }
+.pro-ranking-price { text-align: center; margin-top: 10px }
+.pro-ranking-price span { color: #f44800; font-weight: bold; font-size: 14px }
+.pro-ranking-comment { text-align: center }
+.pro-ranking-comment a { color: #005aa0 }
+.pro-ranking-comment a:hover { color: #ed0000 }
+.pro-ranking-star { text-align: center }
+.pro-ranking-star img { vertical-align: middle }
+.pop-setarea { width: 600px; height: 400px; display: none; background: #FFF; }
+.pop-setarea-tit { background: url(http://www.zuyushop.com/newindexpic/proimages/pop_setarea_bg.gif) repeat-x; height: 65px; line-height: 65px; font-size: 14px; font-weight: bold; color: #585858 }
+.pop-setarea-tit img { margin: 0 15px 0 20px; vertical-align: middle }
+.pop-setarea-head { padding-left: 78px; font-size: 14px; border-bottom: 1px solid #ff9000; height: 34px; line-height: 34px; margin-top: 12px; position: relative }
+.pop-setarea-head span { float: left }
+.pop-setarea-head ul { display: inline-block; vertical-align: middle; float: left; position: relative; bottom: -1px }
+.pop-setarea-head ul li { float: left; padding: 0 21px }
+.pop-setarea-head ul li.current { border: 1px solid #ff9000; border-bottom: 1px solid #fff; height: 32px; background: #fff; padding: 0 20px; line-height: 32px; bottom: -2px }
+.pop-setarea-con { padding-left: 76px; margin-top: 20px }
+.pop-setarea-con a { display: inline-block; width: 120px; margin: 0 0 8px auto; color: #666; text-decoration: none }
+.pop-setarea-con a.long { width: 240px }
+.pop-setarea-con a:hover { color: #fb8900 }
+.pop-setarea-province { padding-left: 4px }
+.pop-setarea-province p, .pop-setarea-province li { float: left; font-size: 14px!important; margin: 0; padding: 0 }
+.pop-setarea-province a { width: 60px }
+.pop-setarea-city, .pop-setarea-town { display: none; font-size: 14px!important }
+.fancybox-skin { -webkit-border-radius: 0!important; -moz-border-radius: 0!important; border-radius: 0!important;}/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+

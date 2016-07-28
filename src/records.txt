@@ -1,0 +1,16 @@
+Key = 不错, Value = 7
+Key = 流畅, Value = 5
+Key = 支持, Value = 5
+Key = 满意, Value = 3
+Key = 强大, Value = 3
+Key = 崩溃, Value = 3
+Key = 失望, Value = 2
+Key = 不对, Value = 2
+Key = 值得, Value = 2
+Key = 耐用, Value = 2
+Key = 持中立态度, Value = 1.0
+Key = 非常好的, Value = 9.0
+Key = 有点讨厌, Value = 1.0
+Key = 喜欢, Value = 4.0
+Key = 不喜欢, Value = 1.0
+Key = 非常厌恶, Value = 4.0

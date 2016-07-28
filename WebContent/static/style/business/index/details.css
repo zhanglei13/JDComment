@@ -1,0 +1,107 @@
+#footernew{
+    background-color: #F8F8F8;
+    border-top: 1px solid #dddddd;
+    color: #666;
+    margin-top: 20px;
+    height: 247px;
+}
+#footernews2{
+    background-color: rgba(142, 182, 146, 0.66);
+    height: 40px;
+}
+.menudiv3{
+    height: 39px;
+    line-height: 39px;
+    padding-top: 0;
+    width: 110px;
+    float: left;
+}
+.footinner {
+    margin: 0 auto;
+    padding: 20px 0;
+    width: 998px;
+}
+
+
+.ClasServiceBlock {
+    border-left: 1px solid #ddd;
+    float: left;
+    padding-left: 30px;
+    text-align: left;
+    width: 180px;
+}
+
+#ftinfo {
+    color: rgba(105, 92, 67, 1);
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    width: 998px;
+
+}
+
+.proFl .title span {
+    font-size: 14px !important;
+    font-weight: normal !important;
+}
+
+.pro-nav-box {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #f8f8f8;
+    border-color: #999999 #dbdbdb #dbdbdb;
+    border-image: none;
+    border-right: 1px solid #dbdbdb;
+    border-style: solid;
+    border-width: 2px 1px 1px;
+    margin-top: 15px;
+}
+
+.pfTab {
+    border: 1px solid #e8e8e8;
+    float: left;
+    height: 200px;
+    padding-bottom: 10px;
+    width: 768px;
+}
+#label {border:1px solid #E8E8E8; padding:0px 10px;font-size:14px;line-height:40px;overflow:hidden;}
+
+#minichartdiv{
+    width   : 100%;
+    height  : 300px;
+}
+#piechartdiv{
+    width   : 500px;
+    height  : 500px;
+ }   
+
+
+ .all-one{
+    width:928px;
+    border:1px solid #ccc;
+    background: #fff;
+    font-size: 14px;
+    padding: 20px;
+    margin:10px 0; 
+ }
+
+ .all-user{
+    width:150px;
+    float:left;
+    margin-right:20px;
+    line-height:20px;
+ }
+ .all-word{
+    width: 600px;
+    float: left;
+    margin-right: 50px;
+ }
+ .all-star{
+    width:80px;
+    float: left;
+    padding-left:20px; 
+    border-left: 1px dotted #cfcfcf;
+ }

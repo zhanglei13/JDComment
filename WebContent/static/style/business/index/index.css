@@ -1,0 +1,175 @@
+.eva .margin{
+	width: 1200px;
+	margin: 0 auto;
+}
+.eva .head{
+	height: 74px;
+	background: #16a085;
+}
+.eva .head a{
+	color:#fff;
+}
+.eva .head a:hover{
+	color:#666;
+}
+.eva .user{
+	margin-top:45px;
+	padding: 10px 0;
+	border-top: 1px solid #cfcfcf;
+	border-bottom: 1px solid #cfcfcf;
+}
+
+.eva .wait{
+	width: 1158px;
+	height: 100px;
+	line-height: 30px;
+	margin:20px auto;
+	border:1px solid #ccc;
+	background: #eee;
+	padding: 20px;
+}
+
+.eva .wait a:hover{
+	color: #16a085;
+}
+
+#footernews2{
+	background-color: rgba(142, 182, 146, 0.66);
+	height: 40px;
+}
+
+
+#ftinfo {
+    color: rgba(105, 92, 67, 1);
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    width: 998px;
+
+}
+
+.wrapper {
+    color: #333;
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 1200px;
+}
+.nav-tab {
+    border-bottom: 2px solid #16a085;
+    height: 36px;
+    margin: 17px 0 0;
+    position: relative;
+    z-index: 21;
+}
+.nav-tab a, .nav-tab span {
+    background-color: #16a085;
+    border: 2px solid #16a085;
+    color: #fff;
+    float: left;
+    font: 16px/34px "Microsoft YaHei",arial;
+    height: 34px;
+    margin: 0 3px -2px 0;
+    padding: 0 14px;
+    position: relative;
+    vertical-align: middle;
+}
+.nav-tab .active {
+    background: none repeat scroll 0 0 #fff;
+    border-bottom: 0 none;
+    color: #333;
+    height: 36px;
+    padding: 0 14px;
+}
+.nav-tab a:hover {
+    background: none repeat scroll 0 0 #297acc;
+    border-color: #297acc;
+    color: #fff;
+    text-decoration: none;
+}
+
+/*评价*/
+.form .body{
+	margin: 20px;
+}
+
+.rating-star {
+    margin: 50px 10px;
+}
+
+.rating-star a {
+    background: url(../../../image/commentstar.png) no-repeat 0 -90px;
+    display: inline-block;
+    height: 23px;
+    text-indent: -999em;
+    width: 23px;
+}
+
+
+/*商品目录*/
+.eva .goods{
+	width:200px;
+	height: 280px;
+	margin-right: 38px;
+	margin-top: 30px;
+	background: #eee;
+	border:1px solid #ccc;
+	line-height: 20px;
+}
+
+.tcdPageCode{padding: 15px 20px;text-align: left;color: #ccc;text-align:right;}
+.tcdPageCode a{display: inline-block;color: #428bca;display: inline-block;height: 25px; line-height: 25px;  padding: 0 10px;border: 1px solid #ddd; margin: 0 2px;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode a:hover{text-decoration: none;border: 1px solid #428bca;}
+.tcdPageCode span.current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;color: #fff;background-color: #428bca; border: 1px solid #428bca;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode span.disabled{ display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px; color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;border-radius: 4px;vertical-align: middle;}
+
+
+
+.comments-level .back {
+    margin: 0 10px;
+    display: inline-block;
+    background: #ccc; 
+    height: 24px;
+    width: 100px;
+}
+.comments-level .has {
+    background: #f60;
+    display: inline-block;
+    height: 24px;
+}
+
+.admin-menu{
+    width:240px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #16a085;
+    color: white;
+}
+.admin-title{
+    margin:50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.admin-menu li span{
+    width: 10px;
+    float: left;
+    height: 100%;
+    background: #5a5a5a;
+    display: inline-block;
+    margin-right: 80px;
+}
+.admin-menu li{
+    height: 40px;
+    line-height: 40px;
+    border-top: 1px solid #11aa88;
+}
+
+.admin-main{
+    width: 100%;
+}
+.admin-list{
+    margin: 30px  30px 30px 280px;
+}
